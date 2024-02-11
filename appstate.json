@@ -1,10 +1,7 @@
  [
     {
         "key": "dbln",
-        "value": "%7B%22100051921618545%22%3A%22hX9irXSt%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
+        "value": "%7B%221000lse,
         "creation": "2024-02-11T00:43:02.700Z",
         "lastAccessed": "2024-02-11T00:43:02.700Z"
     },
@@ -14,8 +11,7 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-02-11T00:43:02.700Z",
-        "lastAccessed": "2024-02-11T00:43:02.700Z"
+24-02-11T00:43:02.700Z"
     },
     {
         "key": "ps_n",
@@ -51,7 +47,7 @@
         "path": "/",
         "hostOnly": false,
         "creation": "2024-02-11T00:43:02.700Z",
-        "lastAccessed": "2024-02-11T00:43:02.700Z"
+   11T00:43:02.700Z"
     },
     {
         "key": "locale",
